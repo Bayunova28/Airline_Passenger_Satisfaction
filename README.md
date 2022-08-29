@@ -122,6 +122,7 @@ RETURN
   
   * <b>In-flight Service</b>
   ```
+  In-flight Service Rating = 
   VAR __MAX_NUMBER_OF_STARS = 5
 VAR __MIN_RATED_VALUE = 0
 VAR __MAX_RATED_VALUE = 5
