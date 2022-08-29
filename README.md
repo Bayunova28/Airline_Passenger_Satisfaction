@@ -10,7 +10,7 @@ to the J.D. Power 2022 North America Airline Satisfaction Study, released today.
 <p align="justify">"Customer satisfaction with North American airlines climbed to unprecedented highs for all of the wrong reasons during the past two years," said 
 Michael Taylor, travel intelligence lead at J.D. Power. "Fewer passengers meant more space on airplanes, less waiting in line and more attention from flight attendants. 
 But that business model was simply not sustainable. Now, with volumes surging and some remnants of pandemic-era constraints still in place, passenger satisfaction is in 
-decline—but that’s not really bad news. If airlines can find ways to manage these growing volumes while making some small adjustments to help passengers feel more valued,
+decline but that’s not really bad news. If airlines can find ways to manage these growing volumes while making some small adjustments to help passengers feel more valued,
 they should be able to manage this return to normal".<p>
 
 ## Data Analysis Expressions (DAX) Calculation
