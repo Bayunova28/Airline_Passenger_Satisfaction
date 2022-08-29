@@ -1,5 +1,5 @@
 # Airline Passenger Satisfaction
-<img src="https://github.com/Bayunova28/Airline_Passenger_Satisfaction/blob/master/cover.jpg" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Airline_Passenger_Satisfaction/blob/master/cover.jpg" height="450" width="1100">
 
 ## Background
 <p align="justify">The crowds are back at the airport, those empty middle seats are occupied again and airlines in North America are raising ticket prices in response to 
@@ -153,7 +153,7 @@ RETURN
   ```
   
   ## Dashboard
-  <img src="https://github.com/Bayunova28/Airline_Passenger_Satisfaction/blob/master/dashboard-report.png" height="550" width="1100">
+  <img src="https://github.com/Bayunova28/Airline_Passenger_Satisfaction/blob/master/dashboard-report.png" height="500" width="1100">
   
   ## Acknowledgement
   Dataset Source : [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?select=train.csv) 
